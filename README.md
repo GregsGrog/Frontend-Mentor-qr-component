@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-figma-and-css-BkAp6bW75](https://www.frontendmentor.io/solutions/qr-code-component-using-figma-and-css-BkAp6bW75)
+- Live Site URL: [https://gregsgrog.github.io/Frontend-Mentor-qr-component/](https://gregsgrog.github.io/Frontend-Mentor-qr-component/)
 
 ## My process
 I started by building planning out my project in figma. I then added my HTML tags, before linking my css file, adding the google font and adding my css.
